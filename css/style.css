@@ -4,6 +4,13 @@ padding 0;
 font-family: "montserrat", sans-serif,; 
 }
 
+/* Responsiveness */
+
+* {
+    box-sizing: border-box;
+}
+
+
 .container {
   max-width: 940px;
   margin: 0 auto;
