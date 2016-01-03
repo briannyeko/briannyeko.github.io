@@ -1,0 +1,264 @@
+html, body {
+margin: 0;
+padding 0;    
+font-family: "montserrat", sans-serif,; 
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  
+}
+
+ .h1 {
+    
+  font-family: "montserrat", sans-serif,;   
+    
+}
+
+/* Header */
+
+.header {
+  background-color: yellow;
+  height: 140px;
+  text-align: center;
+}
+
+
+.header .container {
+	position: relative;
+	top: 200px;
+}
+
+
+/* NAVBAR */
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   font-family: montserrat;
+   float: right; 
+}
+
+.center .dropdown-menu {
+    text-align: left;
+}
+
+.navbar li { color: #000 }
+
+/* NAVTEXT COLOR */
+
+
+
+/*Front Page */
+
+#FRONTPAGE {
+height: 700px;
+font-family: montserrat;    
+width: 100%;
+background-image:url("file:///Users/briannyekomoini/Desktop/Resume/Resume%20real/img/photos/IMG_3169.jpg"); 
+background-size: cover;
+text-align: center;
+align-items: center; 
+
+}
+
+#PosTitle {
+ margin-top: 30%;
+ padding: 0 0 0 0px;
+}
+
+
+.fadeInDown {
+  -vendor-animation-duration: 3s;
+  -vendor-animation-delay: 2s;
+  -vendor-animation-iteration-count: infinite;
+}
+
+/*Languages */
+
+#Language {
+background-color: whitesmoke;
+height 200px;
+font-family: montserrat;
+
+}
+#Lang {
+font-weight: 
+700    
+}
+
+#Text{
+font-family: montserrat;
+font-weight: 300;
+    
+}
+
+
+.flag-icon {
+
+background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    position: relative;
+    display: inline-block;
+    width: 1.33333333em;
+    line-height: 1em;
+}
+/* Education */
+
+
+#Educationz {
+    
+height: 700px; 
+font-family: montserrat; 
+background-color: whitesmoke;
+padding-top: 5%;
+background-size: cover; 
+    width: 100%; 
+}
+
+
+.uppsalauni {
+padding-top: 5%;
+float: right; 
+margin-right: 24%;   
+    
+}
+
+.SthlmUni { 
+float: left; 
+padding-top: 5%;
+margin-left: 30%;    
+}
+
+.float-r {
+float: right; 
+    
+}
+
+/*EducationText */
+
+#SthlmUnitext{
+margin-top: -10%;
+font-weight: 700;
+margin-bottom: 5%;
+}
+
+
+#UppsalaUnitext {
+font-weight: 700; 
+margin-bottom: 5%;
+}
+
+/* images of logos */
+
+
+
+/* Work Experience */
+
+#WorkExperence {
+
+font-family: montserrat;
+background-color: aqua;  
+height: 750px;  
+padding-top: 5%;
+background-size: cover;   
+    width: 100%; 
+}
+
+.Workexptext {
+color: white;
+    
+}
+
+    
+
+
+#Workexptext-Apgruppen {
+font-weight: 700; 
+color: white;
+}
+
+#Workexptext-AB {
+color: white;
+margin-top: -10%;
+font-weight: 700;
+}
+
+.Appgruppen {
+padding-top: 5%;
+float: right; 
+margin-right: 10%;
+}
+    
+.AppAB {
+float: left; 
+padding-top: 5%;
+margin-left: 20%; 
+}
+
+
+.float-r {
+float: right; 
+    
+}
+
+
+    /* footer */ 
+
+    #Footer {
+    font-family: montserrat;
+    background-color: aqua;
+    background-size: cover;
+        width: 100%; 
+    padding-top: 10%;
+    }
+
+.btn btn-primary{
+margin-bottom: 10%;
+    
+}
+
+#copyrightz {
+float: right; 
+color: white;
+Font font-weight: 500;
+    
+}
+
+
+/* OUTLINE BUTTONS */
+
+btn.outline {
+    background: none;
+    padding: 12px 22px;
+}
+.btn-primary.outline {
+    border: 2px solid #0099cc;
+    color: #0099cc;
+}
+.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+    color: #33a6cc;
+    border-color: #33a6cc;
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+    border-color: #007299;
+    color: #007299;
+    box-shadow: none;
+}
+
+/***********************
+  CUSTON BTN VALUES
+************************/
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
