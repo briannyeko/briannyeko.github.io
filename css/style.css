@@ -126,6 +126,7 @@ background-size: cover;
 padding-top: 5%;
 float: right; 
 margin-right: 24%;   
+display: block;
     
 }
 
@@ -133,6 +134,7 @@ margin-right: 24%;
 float: left; 
 padding-top: 5%;
 margin-left: 30%;    
+display: block;
 }
 
 .float-r {
@@ -146,12 +148,14 @@ float: right;
 margin-top: -10%;
 font-weight: 700;
 margin-bottom: 5%;
+display: block;
 }
 
 
 #UppsalaUnitext {
 font-weight: 700; 
 margin-bottom: 5%;
+display: block;
 }
 
 /* images of logos */
@@ -168,6 +172,7 @@ height: 750px;
 padding-top: 5%;
 background-size: cover;   
     width: 100%; 
+    display: block;
 }
 
 .Workexptext {
