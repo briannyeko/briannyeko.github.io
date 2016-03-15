@@ -14,4 +14,4 @@ https://github.com/briannyeko/briannyeko.github.io
 
 You can see my customized Resume at:
 
-http://briannyeko.github.io
+http://briannyeko.com
