@@ -1,0 +1,7 @@
+{
+  "name": "Resume real",
+  "dependencies": {
+    "flag-icon-css": "~1.0.0",
+    "animate.css": "~3.5.1"
+  }
+}
