@@ -1,0 +1,85 @@
+{
+  "name": "briannyeko/briannyeko.github.io",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "New Official Site. ",
+  "branch": "",
+  "style": {
+    "name": "Material",
+    "componentSet": {
+      "nav": "nav/DarkAbsoluteNav",
+      "header": "header/GradientHeader",
+      "article": "article/BasicArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Roboto, sans-serif",
+    "heading": {
+      "fontWeight": 500,
+      "letterSpacing": "-0.01em"
+    },
+    "colors": {
+      "text": "#212121",
+      "background": "#fff",
+      "primary": "#2196f3",
+      "secondary": "#1565c0",
+      "highlight": "#ff4081",
+      "border": "#e0e0e0",
+      "muted": "#f5f5f5"
+    },
+    "layout": {
+      "centered": true,
+      "bannerHeight": "80vh",
+      "maxWidth": 896
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/briannyeko/briannyeko.github.io",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "briannyeko.github.io",
+      "subhead": "Personal Website. Briannyeko.com",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "briannyeko.github.io: Personal Website. Briannyeko.com",
+          "url": ""
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "briannyeko",
+          "repo": "briannyeko.github.io"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "\n<p>====================</p>\n<h2>Hello world!</h2>\n<p>This is my first try at github!</p>\n<p>My Github user page is at: \n<a href=\"https://github.com/briannyeko/\">https://github.com/briannyeko/</a></p>\n<p>My Github Pages repo can be found at:<br><a href=\"https://github.com/briannyeko/briannyeko.github.io\">https://github.com/briannyeko/briannyeko.github.io</a></p>\n<p>You can see my customized Resume at:</p>\n<p><a href=\"http://briannyeko.com\">http://briannyeko.com</a></p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/briannyeko/briannyeko.github.io",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/briannyeko",
+          "text": "briannyeko"
+        }
+      ]
+    }
+  ]
+}
