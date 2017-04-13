@@ -113,10 +113,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n<p>====================</p>\n<h2>Education</h2>\n<h3>Uppsala University</h3>\n<h5>January 2014 - </h5>\n<h3>Stockholm University</h3>\n<h4>General Studies - Chinese for Beginners</h4>\n<h5>January 2015 - June 2015</h5>\n<h3>Freecodecamp - Sanfrancico</h3>\n<h4>Full Stack Web Development Certification - Computer Engineering</h4>\n<h5>June 2016 - </h5>\n<h2>Work</h2>\n<h3>Apoteksgruppen</h3>\n<h4>Pharmacutical Technician</h4>\n<h5>March 2017 - </h5>\n<h3>Apoteksgruppen</h3>\n<h4>Cassier</h4>\n<h5>June 2010 - </h5>\n<h3>Apoteket AB</h3>\n<h4>Cassier</h4>\n<h5>June 2007 - June 2010</h5>\n"
-
-
-
+      "html": "\n<p>====================</p>\n<h2>Hello world!</h2>\n<p>This is my first try at github!</p>\n<p>My Github user page is at: \n<a href=\"https://github.com/briannyeko/\">https://github.com/briannyeko/</a></p>\n<p>My Github Pages repo can be found at:<br><a href=\"https://github.com/briannyeko/briannyeko.github.io\">https://github.com/briannyeko/briannyeko.github.io</a></p>\n<p>You can see my customized Resume at:</p>\n<p><a href=\"http://briannyeko.com\">http://briannyeko.com</a></p>\n"
     },
     {
       "component": "footer",
