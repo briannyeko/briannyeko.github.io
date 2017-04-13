@@ -93,7 +93,7 @@
       "heading": "Brian Nyeko ",
       "subhead": "Personal Website",
       "children": [
-        
+
       ],
       "text": "Front-end developer/Pharmaceutical Student",
       "backgroundImage": "http://eskipaper.com/images/beach-screensavers-hd-1.jpg",
@@ -104,7 +104,8 @@
       "metadata": {
         "source": ""
       },
-      "html": "\n<h2>Education</h2>\n<hr>\n<h3>Uppsala University</h3>
+      "html": "\n<h2>Projects</h2>\n
+      <h3>Coming Soon!</h3>\n<h2>Education</h2>\n<hr>\n<h3>Uppsala University</h3>
 \n<h4>Bachelors of Science - Pharmacy</h4>
 \n<h5>January 2014 - </h5>
 \n<h3>Stockholm University</h3>
