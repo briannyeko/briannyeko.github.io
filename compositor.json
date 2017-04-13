@@ -93,16 +93,7 @@
       "heading": "Brian Nyeko ",
       "subhead": "Personal Website",
       "children": [
-        {
-          "component": "ui/TweetButton",
-          "text": "briannyeko.github.io: Personal Website. Briannyeko.com",
-          "url": ""
-        },
-        {
-          "component": "ui/GithubButton",
-          "user": "briannyeko",
-          "repo": "briannyeko.github.io"
-        }
+        
       ],
       "text": "Front-end developer/Pharmaceutical Student",
       "backgroundImage": "http://eskipaper.com/images/beach-screensavers-hd-1.jpg",
@@ -144,7 +135,7 @@
         },
         {
           "href": "https://github.com/briannyeko",
-          "text": "briannyeko"
+          "text": "Github"
         }
       ]
     }
